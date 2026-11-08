@@ -32,18 +32,17 @@ Cada tarjeta es una receta. Pulsa **Ver receta** y se abren los ingredientes y l
 2. Salen personajes de nueve tumbas. Haz clic (o toca con el dedo) para aplastarlos antes de que se escondan. También se puede jugar con el teclado: tabulador para moverte e Intro o espacio para golpear.
 3. Tienes 30 segundos.
    - Fantasma blanco: +1 punto.
-   - Fantasma verde con corona (tóxico): +5 puntos, pero se esconde más rápido.
-   - Murciélago: **-5 puntos** y pierdes la racha. Si una tumba tiembla, es que hay un murciélago.
-4. Con 5 aciertos seguidos puntúas el doble y con 10 el triple.
-5. Al acabar verás tu puntuación y se guarda tu récord en el navegador.
-6. El botón **Sonido** del juego quita o pone los sonidos.
+   - Fantasma verde: +3 puntos
+   - Murciélago: -3 puntos
+4. Al acabar verás tu puntuación y se guarda tu récord en el navegador.
+5. El botón **Sonido** del juego quita o pone los sonidos.
 
 ## Entrar con tu usuario
 Pulsa **Entrar**.
 - **Ya tengo usuario**: escribe tu usuario y tu contraseña. Si te equivocas, la web te avisa.
 - **Registrar usuario**: rellena usuario, contraseña (mínimo 6 caracteres), correo y la respuesta a la pregunta de seguridad. Después ya puedes entrar.
 - **Cambiar contraseña**: escribe tu usuario, la respuesta a la pregunta de seguridad y la contraseña nueva.
-- Usuarios de prueba: `jack` / `calabaza13` y `sally` / `muñeca13`.
+- Usuarios de prueba: `admin` / `usuario`.
 
 Importante: los usuarios nuevos se guardan en la sesión del navegador, así que si cierras el navegador se pierden.
 
