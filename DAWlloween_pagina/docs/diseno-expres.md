@@ -1,0 +1,21 @@
+# Labelling y Sitemap · Toons de Pesadilla
+
+## Sitemap
+```
+index.html (Inicio)
+   ├─→ recetas.php
+   ├─→ juego.php
+   ├─→ aboutus.php
+   └─→ login.php
+          ├─→ altaUsuario.php  ─→ login.php
+          ├─→ cambioPass.php   ─→ login.php
+          └─→ panel.php
+                 ├─→ correo.php
+                 ├─→ recetas.html / juego.php / aboutus.php
+                 └─→ logout.php ─→ login.php
+```
+
+## Labelling (nombres de menú)
+- Inicio · Recetas · Juego · Quiénes somos · Entrar
+- Botones: Abrir el expediente, Ver las pruebas, Ver receta, Entrar al pasillo, Jugar, Entrar, Crear usuario, Cambiar contraseña, Enviar a Jack, Salir.
+
