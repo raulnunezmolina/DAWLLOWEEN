@@ -7,12 +7,12 @@ index.html (Inicio)
    ├─→ juego.php
    ├─→ aboutus.php
    └─→ login.php
-          ├─→ altaUsuario.php  ─→ login.php
-          ├─→ cambioPass.php   ─→ login.php
+          ├─→ altaUsuario.php  ─→ index.php
+          ├─→ cambioPass.php   ─→ index.php
           └─→ panel.php
                  ├─→ correo.php
                  ├─→ recetas.html / juego.php / aboutus.php
-                 └─→ logout.php ─→ login.php
+                 └─→ logout.php ─→ index.php
 ```
 
 ## Labelling (nombres de menú)
