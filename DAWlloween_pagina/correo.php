@@ -29,7 +29,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
             $correo->SMTPAuth = true;
 
             $correo->Username = 'c17dcf001@smtp-brevo.com';
-            $correo->Password = 'xsmtpsib-7efd7ea5c2e73a4fdef7948fde94c09a67abeeed9c36a7253c189abf86da3a1b-m7AEcyBAcCWVinlT';
+            $correo->Password = 'CLAVE SSH';
 
             $correo->SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS;
             $correo->Port = 587;
