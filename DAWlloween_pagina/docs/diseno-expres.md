@@ -19,3 +19,5 @@ index.html (Inicio)
 - Inicio · Recetas · Juego · Quiénes somos · Entrar
 - Botones: Abrir el expediente, Ver las pruebas, Ver receta, Entrar al pasillo, Jugar, Entrar, Crear usuario, Cambiar contraseña, Enviar a Jack, Salir.
 
+## Diseño en Figma
+https://www.figma.com/design/phq44noXnA1Dqp0xwObQOz/DAWLLOWEEN?node-id=0-1&t=HvS1pCZwcnAnjQap-1
