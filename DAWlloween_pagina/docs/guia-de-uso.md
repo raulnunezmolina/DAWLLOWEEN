@@ -3,7 +3,7 @@
 Esta guía está pensada para que cualquiera pueda usar la web, aunque no sepa de informática.
 
 ## Cómo entrar
-Abre la dirección de la web en el navegador (por ejemplo `http://halloween.dev`). Lo primero que verás es la portada, que parece una carpeta de un archivo policial.
+Abre la dirección de la web en el navegador (por ejemplo `http://halloween.dev`). Lo primero que verás es la portada, que parece una carpeta de un archivo policial. Si no lo tienes configurado te tendrás que instalar xamp, meter el documento en hdocs y abrirlo en Localhost.
 
 ## El menú
 Arriba hay cinco pestañas. Haz clic en la que quieras:
