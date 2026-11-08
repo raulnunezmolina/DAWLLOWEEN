@@ -29,8 +29,8 @@ mensaje('error', $error);
         <span class="ayuda">De 3 a 20 caracteres.</span>
     </label>
     <label>Contraseña
-        <input type="password" name="contrasena" autocomplete="new-password" required placeholder="Tu contraseña">
-        <span class="ayuda">Mínimo 4 caracteres.</span>
+        <input type="password" name="contrasena" autocomplete="new-password" required minlength="6" placeholder="Tu contraseña">
+        <span class="ayuda">Mínimo 6 caracteres.</span>
     </label>
     <label>Correo electrónico
         <input type="email" name="email" autocomplete="email" required
