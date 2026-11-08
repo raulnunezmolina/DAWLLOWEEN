@@ -10,14 +10,14 @@ if (!isset($_SESSION['mimatriz'])) {
     $_SESSION['mimatriz'] = [
         [
             'Usuario' => 'admin',
-            'Contraseña' => password_hash('1234', PASSWORD_DEFAULT),
+            'Contraseña' => password_hash('123456', PASSWORD_DEFAULT),
             'Email' => 'admin@halloween.com',
             'Respuesta' => 'calabaza',
             'Perfil' => 'admin'
         ],
         [
             'Usuario' => 'usuario',
-            'Contraseña' => password_hash('1234', PASSWORD_DEFAULT),
+            'Contraseña' => password_hash('123456', PASSWORD_DEFAULT),
             'Email' => 'usuario@halloween.com',
             'Respuesta' => 'fantasma',
             'Perfil' => 'user'
