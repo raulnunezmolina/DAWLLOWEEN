@@ -42,7 +42,7 @@ Pulsa **Entrar**.
 - **Ya tengo usuario**: escribe tu usuario y tu contraseña. Si te equivocas, la web te avisa.
 - **Registrar usuario**: rellena usuario, contraseña (mínimo 6 caracteres), correo y la respuesta a la pregunta de seguridad. Después ya puedes entrar.
 - **Cambiar contraseña**: escribe tu usuario, la respuesta a la pregunta de seguridad y la contraseña nueva.
-- Usuarios de prueba: `admin` / `usuario` con contraseña 1234.
+- Usuarios de prueba: `admin` / `usuario` con contraseña 123456.
 
 Importante: los usuarios nuevos se guardan en la sesión del navegador, así que si cierras el navegador se pierden.
 
